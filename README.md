@@ -12,7 +12,7 @@ $ helm create mychart
 $ helm package mychart
 $ mv mychart-0.1.0.tgz docs
 $ helm repo index docs --url https://kubeman.github.com/kubeman-charts
-$ git add -i
+$ git add .
 $ git commit -av
 $ git push origin master
 ```
