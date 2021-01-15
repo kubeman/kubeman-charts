@@ -17,5 +17,4 @@ $ git commit -av
 $ git push origin master
 ```
 
-From there, I can do a `helm repo add tscharts
-https://kubeman.github.com/kubeman-charts`
+From there, I can do a `helm repo add kubeman https://kubeman.github.com/kubeman-charts`
