@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://kubeman.github.com/kubeman-charts/mychart-0.1.0.tgz
+    - https://kubeman.github.io/kubeman-charts/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-15T08:51:07.247592+08:00"
